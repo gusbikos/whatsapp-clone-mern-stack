@@ -11,6 +11,7 @@ const App = () => {
           <Sidebar />
 
           <Chat />
+
         </div>
       </div>
     )
